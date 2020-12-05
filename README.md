@@ -30,7 +30,7 @@
 * [第17章 決策樹](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter17.ipynb)
 * [第18章 神經網路](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter18.ipynb)
 * [第19章 深度學習](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter19.ipynb)
-* [第20章集群](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter20.ipynb)
+* [第20章 集群](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter20.ipynb)
 * [第21章 自然語言處理](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter21.ipynb)
 * [第22章 網路分析](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter22.ipynb)
 * [第23章 推薦系統](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter23.ipynb)
