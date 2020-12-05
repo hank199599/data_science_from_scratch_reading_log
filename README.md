@@ -1,5 +1,5 @@
 # 用 Python 學資料科學 學習紀錄
-(目前進度：第十章)
+(目前進度：第十二章)
 ## 關於書籍
 書本採用Jerry老師推薦的  
 **DATA SCIENCE FROM SCRATCH中文版：用PYTHON學資料科學**
