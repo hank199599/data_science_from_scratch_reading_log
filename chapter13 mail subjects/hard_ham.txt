@@ -168,14 +168,28 @@ WinXPnews: Time To Patch Your Windows Media Player
 iSilo announcements (August 15, 2002)
 CERT Advisory CA-2002-21 Vulnerability in PHP
 LP RELEASE: Outrageous military spending
-firewalls Digest V1 #33\n   QOS\n   QOS\n   FW: disable some sites\n  > Subject:	disable some sites\n  > Subject:	disable some sites\n  > >>Subject:	disable some sites\n   DNAT with iptables question\n   DNAT with iptables question
+firewalls Digest V1 #33\n   QOS\n   QOS\n   FW: disable some sites
+disable some sites
+disable some sites
+disable some sites\n   DNAT with iptables question\n   DNAT with iptables question
 MiniNTK 2002-08-16
      World Wide Words -- 17 Aug 02
 kernel BUG at filemap.c:843!\n   kernel BUG at filemap.c:843!
 EFFector 15.25: Judge Grants Consumer Voice in ReplayTV Lawsuit, Musician Endorses Music Sharing
 [use Perl] Stories for 2002-08-18
 Movies to Watch on Lifetime
-=?iso-2022-jp?B?UmU6IBskQjswSSkyPTNYJSglcyU4JUslIiVqJXMlME1NJVcbKEI=?=\n   三菱化学エンジニアリング様プロセスダウンについて  - ticket\n  > > Subject: 三菱化学エンジニアリング様プロセスダウンについて - ticket\n  > > Subject: 三菱化学エンジニアリング様プロセスダウンについて\n  > > > > Subject: 三菱化学エンジニアリング様プロセスダウンについて\n  > > > > Subject: 三菱化学エンジニアリング様プロセスダウンについて\n  > > > > > > Subject: Re:三菱化学エンジニアリング様プロセスダウンについて\n  > > > > > > Subject: [三菱化学エンジニアリング様プロセスダウンについて\n  > > > > > > > Subject: 三菱化学エンジニアリング様プロセスダウンについて\n  > > > > > > > > Subject: 三菱化学エンジニアリング様プロセスダウンについ\n  > > > > > > > > Subject: 三菱化学エンジニアリング様プロセスダウンについ\n  > > > > > > > > > Subject: 三菱化学エンジニアリング様プロセスダウンにつ\n  > > > > > > > > > > Subject: 三菱化学エンジニアリング様プロセスダウンについ
+=?iso-2022-jp?B?UmU6IBskQjswSSkyPTNYJSglcyU4JUslIiVqJXMlME1NJVcbKEI=?=\n   三菱化学エンジニアリング様プロセスダウンについて  - ticket
+三菱化学エンジニアリング様プロセスダウンについて - ticket
+三菱化学エンジニアリング様プロセスダウンについて
+三菱化学エンジニアリング様プロセスダウンについて
+三菱化学エンジニアリング様プロセスダウンについて
+三菱化学エンジニアリング様プロセスダウンについて
+[三菱化学エンジニアリング様プロセスダウンについて
+三菱化学エンジニアリング様プロセスダウンについて
+三菱化学エンジニアリング様プロセスダウンについ
+三菱化学エンジニアリング様プロセスダウンについ
+三菱化学エンジニアリング様プロセスダウンにつ
+三菱化学エンジニアリング様プロセスダウンについ
 =?iso-2022-jp?B?GyRCRnxLXDhsJE43b0w+IUolNSVWJTglJyUvJUghSyEhJTkbKEI=?=
 BUG REVIEW
 [Lockergnome Tech Specialist]  Transportation Rage
