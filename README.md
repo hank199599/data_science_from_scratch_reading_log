@@ -19,7 +19,7 @@
 * [第6章 機率](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter6.ipynb)
 * [第7章 假設與推論](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter7.ipynb)
 * [第8章 梯度遞減](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter8.ipynb)
-* [第9章 取得數據資料]()
+*  第9章 取得數據資料
 * [第10章 處理數據資料](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter10.ipynb)
 * [第11章 機器學習](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter11.ipynb)
 * [第12章 k最近鄰](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter12.ipynb)
