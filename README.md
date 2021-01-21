@@ -1,5 +1,5 @@
 # 用 Python 學資料科學 學習紀錄
-(目前進度：第十九章)
+(目前進度：已完成，前往下一本書)
 ## 關於書籍
 書本採用Jerry老師推薦的  
 **DATA SCIENCE FROM SCRATCH中文版：用PYTHON學資料科學**
@@ -19,7 +19,7 @@
 * [第6章 機率](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter6.ipynb)
 * [第7章 假設與推論](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter7.ipynb)
 * [第8章 梯度遞減](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter8.ipynb)
-* [第9章 取得數據資料](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter9.ipynb)
+* [第9章 取得數據資料]()
 * [第10章 處理數據資料](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter10.ipynb)
 * [第11章 機器學習](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter11.ipynb)
 * [第12章 k最近鄰](https://colab.research.google.com/github/hank199599/data_science_from_scratch_reading_log/blob/main/Chapter12.ipynb)
